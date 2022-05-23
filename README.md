@@ -1,0 +1,2 @@
+# Perdidos-no-Templo
+“Perdidos no Templo” trata-se de um jogo sério em 2D com um foco na mitologia da cultura romana e como a mesma remete para a sociedade romana.  Os objetivos pedagógicos deste jogo tratam se de ajudar a adquirir conhecimento sobre a mitologia romana, aprender a identificar os deuses principais e ser capaz de associar cada um às suas áreas e, por fim, aprender sobre vários setores da sociedade romana, a sua política, religião, entre outros, aos quais as personagens mitológicas estão relacionadas. 
